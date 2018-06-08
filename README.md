@@ -1,1 +1,1 @@
-# Course_Project
+# Sorry for the names of the variables in this pseudo project . In the project, I tried to demonstrate that I have basic programming knowledge. A class created here emulates the functions of the supreme council. Written on java .
